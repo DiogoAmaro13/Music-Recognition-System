@@ -1,0 +1,1 @@
+- o m5 passa 100 em 100 porque funciona em BLE, que só suporta o envio de 100 amostras de cada vez
